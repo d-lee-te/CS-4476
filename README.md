@@ -56,8 +56,6 @@ As the next best description, I'll provide the steps taken to achieve each proje
     3. Adjust model network to lower stride and higher downsampling rate
     4. Apply to data and draw conclusions
 
-### Debrief
-
 # Disclaimer
 As most of the course content belongs to either the College or the Professors, I am transcribing my work and assignments to record the course.
 
